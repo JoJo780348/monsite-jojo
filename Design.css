@@ -1,0 +1,20 @@
+boby {
+    color: black; 
+    background-color: blue;
+    font-size: large;
+}
+table{
+	border-collapse: collapse;
+	wide: 100;
+
+}
+th, td{
+	border: 1px solid #333;
+	padding: 8px;
+	text-align: left;
+
+}
+th{
+	background-color: red;
+	text-align: center;
+}
